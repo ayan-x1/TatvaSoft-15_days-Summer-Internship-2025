@@ -1,0 +1,137 @@
+/* Global Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background: #f8f9fa;
+}
+
+/* Custom Bootstrap overrides */
+.btn {
+  font-weight: 500;
+  text-transform: none;
+  letter-spacing: 0.5px;
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+}
+
+.card {
+  border: none;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+}
+
+.card:hover {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+.form-control {
+  border: 2px solid #e9ecef;
+  transition: all 0.3s ease;
+}
+
+.form-control:focus {
+  border-color: #007bff;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+.form-control.is-invalid {
+  border-color: #dc3545;
+}
+
+.form-control.is-invalid:focus {
+  border-color: #dc3545;
+  box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.25);
+}
+
+/* Animation classes */
+.fade-in {
+  animation: fadeIn 0.5s ease-in;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.slide-in {
+  animation: slideIn 0.5s ease-out;
+}
+
+@keyframes slideIn {
+  from { transform: translateX(-100%); }
+  to { transform: translateX(0); }
+}
+
+/* Loading spinner */
+.spinner-border-sm {
+  width: 1rem;
+  height: 1rem;
+}
+
+/* Custom alert styles */
+.alert {
+  border: none;
+  border-radius: 10px;
+  font-weight: 500;
+}
+
+.alert-success {
+  background-color: #d4edda;
+  color: #155724;
+}
+
+.alert-danger {
+  background-color: #f8d7da;
+  color: #721c24;
+}
+
+/* Responsive utilities */
+@media (max-width: 768px) {
+  .container-fluid {
+    padding: 1rem;
+  }
+  
+  .card {
+    margin: 0.5rem 0;
+  }
+  
+  .btn-lg {
+    padding: 0.75rem 1.5rem;
+    font-size: 1rem;
+  }
+}
+
+/* Scroll behavior */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Focus styles for accessibility */
+.btn:focus,
+.form-control:focus {
+  outline: none;
+}
+
+/* Custom gradient backgrounds */
+.bg-gradient-primary {
+  background: linear-gradient(45deg, #007bff, #0056b3);
+}
+
+.bg-gradient-success {
+  background: linear-gradient(45deg, #28a745, #1e7e34);
+}
+
+.bg-gradient-danger {
+  background: linear-gradient(45deg, #dc3545, #c82333);
+}
