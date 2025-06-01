@@ -72,6 +72,7 @@ src/
 ├── index.html                    # Main HTML file
 ├── styles.css                    # Global styles
 ├── package.json                  # Dependencies
+├── README.md                     # about day-2 work                  
 ├── angular.json                  # Angular configuration
 └── tsconfig.json                 # TypeScript configuration
 ```
