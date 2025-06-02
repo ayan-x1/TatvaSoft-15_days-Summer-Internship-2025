@@ -1,0 +1,105 @@
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\appsettings.Development.json
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\appsettings.json
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.staticwebassets.endpoints.json
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.exe
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.deps.json
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.runtimeconfig.json
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.pdb
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Summer Internship\Book_Management\Book_Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.csproj.AssemblyReference.cache
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.AssemblyInfoInputs.cache
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.AssemblyInfo.cs
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.csproj.CoreCompileInputs.cache
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.MvcApplicationPartsAssemblyInfo.cs
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.MvcApplicationPartsAssemblyInfo.cache
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\scopedcss\bundle\Book_Management.styles.css
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets.build.json
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets.development.json
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets\msbuild.Book_Management.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets\msbuild.Book_Management.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets\msbuild.build.Book_Management.props
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Book_Management.props
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Book_Management.props
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\Book_Man.2EF232F1.Up2Date
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.dll
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\refint\Book_Management.dll
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.pdb
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.genruntimeconfig.cache
+D:\Summer Internship\Book_Management\Book_Management\obj\Debug\net8.0\ref\Book_Management.dll
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\bin\Debug\net8.0\appsettings.json
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.staticwebassets.endpoints.json
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.exe
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.deps.json
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.runtimeconfig.json
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.dll
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.pdb
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\bin\Debug\net8.0\Books.Models.dll
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\bin\Debug\net8.0\Books.Services.dll
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\bin\Debug\net8.0\Books.Models.pdb
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\bin\Debug\net8.0\Books.Services.pdb
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.csproj.AssemblyReference.cache
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.AssemblyInfoInputs.cache
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.AssemblyInfo.cs
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.csproj.CoreCompileInputs.cache
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\obj\Debug\net8.0\scopedcss\bundle\Book_Management.styles.css
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\obj\Debug\net8.0\Book_Man.2EF232F1.Up2Date
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.dll
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\obj\Debug\net8.0\refint\Book_Management.dll
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.pdb
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.genruntimeconfig.cache
+C:\Users\PATHAN AYAN ALI\Downloads\Book_Management\Book_Management\Book_Management\obj\Debug\net8.0\ref\Book_Management.dll
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\bin\Debug\net8.0\appsettings.Development.json
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\bin\Debug\net8.0\appsettings.json
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.staticwebassets.endpoints.json
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.exe
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.deps.json
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.runtimeconfig.json
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.dll
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\bin\Debug\net8.0\Book_Management.pdb
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\bin\Debug\net8.0\Books.Models.dll
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\bin\Debug\net8.0\Books.Services.dll
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\bin\Debug\net8.0\Books.Models.pdb
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\bin\Debug\net8.0\Books.Services.pdb
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.csproj.AssemblyReference.cache
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.AssemblyInfoInputs.cache
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.AssemblyInfo.cs
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.csproj.CoreCompileInputs.cache
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.MvcApplicationPartsAssemblyInfo.cs
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.MvcApplicationPartsAssemblyInfo.cache
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.sourcelink.json
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\obj\Debug\net8.0\scopedcss\bundle\Book_Management.styles.css
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets.build.json
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets.development.json
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\obj\Debug\net8.0\Book_Man.2EF232F1.Up2Date
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.dll
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\obj\Debug\net8.0\refint\Book_Management.dll
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.pdb
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\obj\Debug\net8.0\Book_Management.genruntimeconfig.cache
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-3\Book_Management\Book_Management\obj\Debug\net8.0\ref\Book_Management.dll
