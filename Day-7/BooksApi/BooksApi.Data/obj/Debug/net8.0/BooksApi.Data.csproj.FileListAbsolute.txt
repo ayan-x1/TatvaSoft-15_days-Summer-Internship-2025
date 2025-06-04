@@ -1,0 +1,12 @@
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-7\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.deps.json
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-7\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.dll
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-7\BooksApi\BooksApi.Data\bin\Debug\net8.0\BooksApi.Data.pdb
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-7\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-7\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.AssemblyInfoInputs.cache
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-7\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.AssemblyInfo.cs
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-7\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.csproj.CoreCompileInputs.cache
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-7\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.sourcelink.json
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-7\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.dll
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-7\BooksApi\BooksApi.Data\obj\Debug\net8.0\refint\BooksApi.Data.dll
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-7\BooksApi\BooksApi.Data\obj\Debug\net8.0\BooksApi.Data.pdb
+D:\B. Tech(Information Technology)\TatvaSoft-15_days-Summer-Internship-2025\Day-7\BooksApi\BooksApi.Data\obj\Debug\net8.0\ref\BooksApi.Data.dll
